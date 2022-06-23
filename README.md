@@ -1,6 +1,6 @@
 ## Hi there VICTOR TOZZATTO here !!!
 ![](https://img.shields.io/badge/Software_Engineer-Senior-blue)
-![](https://img.shields.io/badge/DevOps-Praticioner-yellowgreen)
+![](https://img.shields.io/badge/DevOps-Praticioner-blueviolet)
 ![](https://img.shields.io/badge/Coffee%20Brew-AWESOME-brightgreen)
 
 <img width="15%" alt="Me biting a very big heart" align="right" src="img/avatar/love.png">
@@ -16,12 +16,11 @@ quite the adventure I would say.
 
 <img width="10%" alt="Me biting a very big heart" align="left" src="img/avatar/....png">
 
-:office: Currently working for : Siemens in Lisbon :portugal:  
-:video_game: Pro-player in Survivals, RPG and Strategy  
+:office: Currently working for Siemens in Lisbon :portugal:  
+:video_game: Pro-player in ![Survival](https://img.shields.io/badge/-Survival-red) ![Rpg](https://img.shields.io/badge/-RPG-green) ![Strategy](https://img.shields.io/badge/-Strategy-blueviolet)   
 :book: Eager for knowledge: ![More than 200 hours](https://img.shields.io/badge/Training_Hours_[2022]-+200hrs-lightgrey)
 
-<br />
-<br />
+![Word Cloud](img/wordcloud.svg)
 
 #### Tech stuff I'm currently working or testing
 
