@@ -1,5 +1,5 @@
 ## Hi there VICTOR TOZZATTO here !!!
-![](https://img.shields.io/badge/Software_Engineer-Senior-blue)
+![](https://img.shields.io/badge/Software_Developer-Senior-blue)
 ![](https://img.shields.io/badge/DevOps-Praticioner-blueviolet)
 ![](https://img.shields.io/badge/Coffee%20Brew-AWESOME-brightgreen)
 
