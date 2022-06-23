@@ -14,11 +14,15 @@ Have being coding, modeling and inventing stuff for more than a decade
 and this took me to the most unexpected places in the world,
 quite the adventure I would say.
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-tozzatto-di-donato-4213b229)
+[![Twitch](https://img.shields.io/twitch/status/odonvivant?logoColor=blueviolet&style=for-the-badge)](https://www.twitch.tv/odonvivanthttps://www.twitch.tv/odonvivant)
+
 <img width="10%" alt="Me biting a very big heart" align="left" src="img/avatar/....png">
 
-:office: Currently working for Siemens in Lisbon :portugal:  
+:office: Currently working for Siemens in Lisbon ![Portugal Flag](https://cdn-icons-png.flaticon.com/16/299/299724.png)  
 :video_game: Pro-player in ![Survival](https://img.shields.io/badge/-Survival-red) ![Rpg](https://img.shields.io/badge/-RPG-green) ![Strategy](https://img.shields.io/badge/-Strategy-blueviolet)   
 :book: Eager for knowledge: ![More than 200 hours](https://img.shields.io/badge/Training_Hours_[2022]-+200hrs-lightgrey)
+
 
 ![Word Cloud](img/wordcloud.svg)
 
@@ -48,3 +52,4 @@ quite the adventure I would say.
 <a href="https://www.credly.com/badges/a7f01b73-fc5b-42ac-b45e-0d224b9ddb0a/public_url">
     <img width="10%" alt="Tools for Data Science" src="img/badges/tools-for-data-science.png" >
 </a>
+
