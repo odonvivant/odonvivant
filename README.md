@@ -15,7 +15,7 @@ and this took me to the most unexpected places in the world,
 quite the adventure I would say.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-tozzatto-di-donato-4213b229)
-[![Twitch](https://img.shields.io/twitch/status/odonvivant?logoColor=blueviolet&style=for-the-badge)](https://www.twitch.tv/odonvivanthttps://www.twitch.tv/odonvivant)
+[![Twitch](https://img.shields.io/twitch/status/odonvivant?logoColor=blueviolet&style=for-the-badge)](https://www.twitch.tv/odonvivant)
 
 <img width="10%" alt="Me biting a very big heart" align="left" src="img/avatar/....png">
 
