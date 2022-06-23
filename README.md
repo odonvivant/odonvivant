@@ -5,14 +5,13 @@
 
 <img width="15%" alt="Me biting a very big heart" align="right" src="img/avatar/love.png">
 
-If asked I would probably define myself as a **Problem solver** 3 of 5 times,   
+If asked I would probably define myself as a **Problem solver** 3 of 5 times, 
 there's this itchy feeling in my brain every time I'm facing any unspecific 
 challenge that triggers my creativity department and pushes me ahead throughout 
 a very enjoyable experiment journey.
 
-Have being coding, modeling and inventing stuff for more than a decade
-and this took me to the most unexpected places in the world,
-quite the adventure I would say.
+Have being coding, modeling and inventing stuff for more than a decade and this 
+took me to the most unexpected places in the world, quite the adventure I would say.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-tozzatto-di-donato-4213b229)
 [![Twitch](https://img.shields.io/twitch/status/odonvivant?logoColor=blueviolet&style=for-the-badge)](https://www.twitch.tv/odonvivant)
